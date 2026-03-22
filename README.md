@@ -11,8 +11,9 @@ A comprehensive analysis of **Git**, a distributed version control system, as pa
 
 ## Student Details
 - **Name:** Dishant  
+- **Registration Number:** 24BSA10326
 - **Course:** Open Source Software  
-- **Project:** Open Source Audit  
+- **Project:** Open Source Audit
 
 ---
 
