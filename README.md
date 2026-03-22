@@ -57,26 +57,32 @@ oss-audit-dishant/
 
 > 📌 The following screenshots show the execution of each script.
 
-<p align="center">
-  <b>Script 1 Output</b><br>
-  <img src="screenshots/Script1_output.png" width="300"/>
-  
-  <b>Script 2 Output</b><br>
-  <img src="screenshots/Script2_output.png" width="300"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <div align="center">
+    <b>Script 1 Output</b><br>
+    <img src="screenshots/Script1_output.png" width="300"/>
+  </div>
+  <div align="center">
+    <b>Script 2 Output</b><br>
+    <img src="screenshots/Script2_output.png" width="300"/>
+  </div>
+</div>
 
-<p align="center">
-  <b>Script 3 Output</b><br>
-  <img src="screenshots/Script3_output.png" width="300"/>
-  
-  <b>Script 4 Output</b><br>
-  <img src="screenshots/Script4_output.png" width="300"/>
-</p>
+<div style="display: flex; justify-content: center; gap: 40px; margin-top: 20px;">
+  <div align="center">
+    <b>Script 3 Output</b><br>
+    <img src="screenshots/Script3_output.png" width="300"/>
+  </div>
+  <div align="center">
+    <b>Script 4 Output</b><br>
+    <img src="screenshots/Script4_output.png" width="300"/>
+  </div>
+</div>
 
-<p align="center">
+<div align="center" style="margin-top: 20px;">
   <b>Script 5 Output</b><br>
   <img src="screenshots/Script5_output.png" width="400"/>
-</p>
+</div>
 
 ---
 
