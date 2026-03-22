@@ -61,29 +61,29 @@ oss-audit-dishant/
 <tr>
 <td align="center">
 <b>Script 1 Output</b><br>
-<img src="screenshots/Script1_output.png" width="300"/>
+<img src="screenshots/Script1_output.png" width="400"/>
 </td>
 
 <td align="center">
 <b>Script 2 Output</b><br>
-<img src="screenshots/Script2_output.png" width="300"/>
+<img src="screenshots/Script2_output.png" width="400"/>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>Script 3 Output</b><br>
-<img src="screenshots/Script3_output.png" width="300"/>
+<img src="screenshots/Script3_output.png" width="400"/>
 </td>
 
 <td align="center">
 <b>Script 4 Output</b><br>
-<img src="screenshots/Script4_output.png" width="300"/>
+<img src="screenshots/Script4_output.png" width="400"/>
 </td>
 </tr>
 
 <tr>
-<td align="center" colspan="2">
+<td align="left" colspan="2">
 <b>Script 5 Output</b><br>
 <img src="screenshots/Script5_output.png" width="400"/>
 </td>
