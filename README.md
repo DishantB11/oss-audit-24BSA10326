@@ -31,11 +31,11 @@ This project explores Git from multiple perspectives:
 ##  Project Structure
 ```
 oss-audit-dishant/
-├── script1.sh  #System Identity Report
-├── script2.sh  # Package Inspector
-├── script3.sh  # Disk & Permission Auditor
-├── script4.sh  # Log Analyzer
-├── script5.sh  # Manifest Generator
+├── script1.sh        # System Identity Report
+├── script2.sh        # Package Inspector
+├── script3.sh        # Disk & Permission Auditor
+├── script4.sh        # Log Analyzer
+├── script5.sh        # Manifest Generator
 └── README.md
 ```
 
@@ -55,39 +55,39 @@ oss-audit-dishant/
 
 ## Screenshots
 
-> The following screenshots show the execution of each script.
-
 <table>
 <tr>
 <td align="center">
 <b>Script 1 Output</b><br>
-<img src="screenshots/Script1_output.png" width="500"/>
+<img src="screenshots/Script1_output.png" width="450"/>
 </td>
 
 <td align="center">
 <b>Script 2 Output</b><br>
-<img src="screenshots/Script2_output.png" width="500"/>
+<img src="screenshots/Script2_output.png" width="450"/>
 </td>
 </tr>
 
 <tr>
 <td align="center">
 <b>Script 3 Output</b><br>
-<img src="screenshots/Script3_output.png" width="500"/>
+<img src="screenshots/Script3_output.png" width="450"/>
 </td>
 
 <td align="center">
 <b>Script 4 Output</b><br>
-<img src="screenshots/Script4_output.png" width="500"/>
+<img src="screenshots/Script4_output.png" width="450"/>
 </td>
 </tr>
 
 <tr>
-<td align="center">
+<td align="center" colspan="2">
 <b>Script 5 Output</b><br>
-<img src="screenshots/Script5_output.png" width="500"/>
+<img src="screenshots/Script5_output.png" width="450"/>
 </td>
+</tr>
 </table>
+>  These screenshots demonstrate successful execution of all scripts in a Linux environment.
 
 ---
 
