@@ -83,11 +83,10 @@ oss-audit-dishant/
 </tr>
 
 <tr>
-<td align="center" colspan="2">
+<td align="center">
 <b>Script 5 Output</b><br>
 <img src="screenshots/Script5_output.png" width="500"/>
 </td>
-</tr>
 </table>
 
 ---
