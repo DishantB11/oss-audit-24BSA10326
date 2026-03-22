@@ -57,24 +57,26 @@ oss-audit-dishant/
 
 > 📌 The following screenshots show the execution of each script.
 
-### Script 1 & Script 2 Outputs
 <p align="center">
+  <b>Script 1 Output</b><br>
   <img src="screenshots/Script1_output.png" width="300"/>
+  
+  <b>Script 2 Output</b><br>
   <img src="screenshots/Script2_output.png" width="300"/>
 </p>
 
-### Script 3 & Script 4 Outputs
 <p align="center">
+  <b>Script 3 Output</b><br>
   <img src="screenshots/Script3_output.png" width="300"/>
+  
+  <b>Script 4 Output</b><br>
   <img src="screenshots/Script4_output.png" width="300"/>
 </p>
 
-### Script 5 Output
 <p align="center">
+  <b>Script 5 Output</b><br>
   <img src="screenshots/Script5_output.png" width="400"/>
 </p>
-
-
 
 ---
 
