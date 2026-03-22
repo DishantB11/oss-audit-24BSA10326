@@ -53,23 +53,21 @@ oss-audit-dishant/
 
 ---
 
-## Screenshots
+## 📸 Screenshots
 
-### Script 1 Output
-![Script 1](screenshots/Script1_output.png)
+<p align="center">
+  <img src="screenshots/Script1_output.png" width="45%">
+  <img src="screenshots/Script2_output.png" width="45%">
+</p>
 
-### Script 2 Output
-![Script 2](screenshots/Script2_output.png)
+<p align="center">
+  <img src="screenshots/Script3_output.png" width="45%">
+  <img src="screenshots/Script4_output.png" width="45%">
+</p>
 
-### Script 3 Output
-![Script 3](screenshots/Script3_output.png)
-
-### Script 4 Output
-![Script 4](screenshots/Script4_output.png)
-
-### Script 5 Output
-![Script 5](screenshots/Script5_output.png)
-
+<p align="center">
+  <img src="screenshots/Script5_output.png" width="60%">
+</p>
 > These screenshots show the successful execution of all scripts in the Linux environment.
 
 ---
