@@ -48,9 +48,6 @@ oss-audit-dishant/
 | **Script 5** | Generates an open-source manifesto |
 
 ---
- demonstrate successful execution of all scripts in a Linux environment.
-
----
 
 ## How to Run
 
