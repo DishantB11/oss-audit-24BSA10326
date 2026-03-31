@@ -1,10 +1,5 @@
 # Open Source Audit – Git
 
-![GitHub repo size](https://img.shields.io/github/repo-size/DishantB11/oss-audit-dishant)
-![GitHub last commit](https://img.shields.io/github/last-commit/DishantB11/oss-audit-dishant)
-![GitHub stars](https://img.shields.io/github/stars/DishantB11/oss-audit-dishant?style=social)
-![GitHub forks](https://img.shields.io/github/forks/DishantB11/oss-audit-dishant?style=social)
-
 A comprehensive analysis of **Git**, a distributed version control system, as part of the Open Source Software course. This project combines theoretical understanding with practical implementation using Linux and shell scripting.
 
 ---
