@@ -48,42 +48,7 @@ oss-audit-dishant/
 | **Script 5** | Generates an open-source manifesto |
 
 ---
-
-## Screenshots
-
-<table>
-<tr>
-<td align="center">
-<b>Script 1 Output</b><br>
-<img src="screenshots/Script1_output.png" width="450"/>
-</td>
-
-<td align="center">
-<b>Script 2 Output</b><br>
-<img src="screenshots/Script2_output.png" width="450"/>
-</td>
-</tr>
-
-<tr>
-<td align="center">
-<b>Script 3 Output</b><br>
-<img src="screenshots/Script3_output.png" width="450"/>
-</td>
-
-<td align="center">
-<b>Script 4 Output</b><br>
-<img src="screenshots/Script4_output.png" width="450"/>
-</td>
-</tr>
-
-<tr>
-<td align="center" colspan="2">
-<b>Script 5 Output</b><br>
-<img src="screenshots/Script5_output.png" width="450"/>
-</td>
-</tr>
-</table>
->  These screenshots demonstrate successful execution of all scripts in a Linux environment.
+ demonstrate successful execution of all scripts in a Linux environment.
 
 ---
 
